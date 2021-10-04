@@ -12,7 +12,7 @@ def randomDot():
     t.color("Red")
     t.begin_fill()
     t.circle(120)
-    t.end_fill
+    t.end_fill()
 
 #Main
 randomDot()
